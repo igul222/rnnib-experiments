@@ -1,0 +1,12 @@
+Setup:
+
+- Fork this project on Github 
+- Modify `pull` and `push` scripts to point to a directory other than `ishaan`
+
+Workflow:
+
+1. Make some changes in the project directory (scripts, training data, whatever).
+2. Use `push` to send the project directory to the server.
+3. Run necessary commands via ssh.
+4. Use `pull` to fetch any changed files from the server (e.g. rnnlib save files, log files, etc.).
+5. Rinse and repeat.
