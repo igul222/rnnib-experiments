@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -auvzP root@104.236.184.241:~/ishaan/ .
