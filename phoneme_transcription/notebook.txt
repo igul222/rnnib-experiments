@@ -1,0 +1,39 @@
+11/26/2014: trained on sketchy_timit, fbank features. test error was 85%.
+    training finished, 186 epochs in total
+    186 epochs in 1 hour 6 minutes 52.099 seconds(this session)
+
+    train set errors for best networks
+    ------------------------------
+    epoch 156 (ctcError)
+    ctcError 90.8404
+    deletions 74.0157%
+    insertions 0%
+    labelError 78.4676%
+    seqError 100%
+    substitutions 4.45185%
+    ------------------------------
+    epoch 165 (labelError)
+    ctcError 88.9763
+    deletions 69.6548%
+    insertions 0%
+    labelError 75.2574%
+    seqError 100%
+    substitutions 5.60267%
+
+    validation set errors for best networks
+    ------------------------------
+    epoch 156 (ctcError)
+    ctcError 108.744
+    deletions 77.1226%
+    insertions 0%
+    labelError 82.3113%
+    seqError 100%
+    substitutions 5.18868%
+    ------------------------------
+    epoch 165 (labelError)
+    ctcError 115.354
+    deletions 64.8585%
+    insertions 0%
+    labelError 77.1226%
+    seqError 100%
+    substitutions 12.2642%

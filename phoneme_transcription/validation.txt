@@ -1,0 +1,11 @@
+sketchy_timit/FAKS0/SA1.WAV
+sketchy_timit/FDAC1/SA1.WAV
+sketchy_timit/FELC0/SA1.WAV
+sketchy_timit/FJEM0/SA1.WAV
+sketchy_timit/MDAB0/SA1.WAV
+sketchy_timit/MJSW0/SA1.WAV
+sketchy_timit/MREB0/SA1.WAV
+sketchy_timit/MSJS1/SA1.WAV
+sketchy_timit/MSTK0/SA1.WAV
+sketchy_timit/MWBT0/SA1.WAV
+sketchy_timit/MRJO0/SA1.WAV
